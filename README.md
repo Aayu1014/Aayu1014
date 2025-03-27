@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ayush-verma-a61ba3224/](https://www.linkedin.com/in/ayush-verma-a61ba3224/)
 
-- 💬 Ask me about **React, Node, JAVA**
+- 💬 Ask me about **React, Node, JAVA, Jest, TypeScript**
 
 - 📫 How to reach me **aayushverma992@gmail.com**
 
